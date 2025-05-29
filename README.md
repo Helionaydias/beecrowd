@@ -9,7 +9,7 @@ Este repositório contém as soluções comentadas dos problemas do [Beecrowd](h
 | Problema | Nome do Arquivo | Tipo | Código |
 |---------:|------------------|------|--------|
 | 1011 | Volume da Esfera | `.py` | [🔗 Abrir](./beecrowd1011_volume_da_esfera.py) |
-| 1011 | Volume da Esfera (explicado) | `.ipynb` | [🔗 Abrir](./beecrowd1011_volume_da_esfera.ipynb) |
+
 
 
 > 📝 
